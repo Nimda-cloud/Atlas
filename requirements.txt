@@ -21,7 +21,7 @@ langchain-core==0.1.53
 langchain-community==0.0.38
 chromadb>=0.4.0 
 sentence-transformers>=2.2.0 
-nltk==3.8.1
+nltk==3.9.1
 
 # Data Processing
 pandas==2.2.2 
