@@ -28,7 +28,7 @@ pandas==2.2.2
 matplotlib==3.7.1
 matplotlib==3.9.0 
 numpy>=1.24.0 
-scikit-learn==1.5.0
+scikit-learn==1.6.1
 pillow==11.2.1 # Exact version from later list 
 seaborn==0.12.2
 
